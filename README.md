@@ -14,6 +14,7 @@ Create and activate a conda environment, we've tested on this env: You can follo
 ### Data Preparation  
 * Hyperspectral training and test datasets:  
   * [HOTC2020](https://www.hsitracking.com/hot2020/)
+  * [IMEC25](https://github.com/Chenlulu1993/HOMG)
 
 ### Path Setting  
 Following [TransT](https://github.com/chenxin-dlut/TransT)
