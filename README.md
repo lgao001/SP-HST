@@ -1,7 +1,7 @@
 # Hyperspectral Object Tracking with Spectral Information Prompt (SP-HST)
 Our Model Weight: [Baidu:vvw7](https://pan.baidu.com/s/131DRXutRF8bJpvTgVIj26g)  
 Pretrain model: [TransT](https://drive.google.com/drive/folders/1GVQV1GoW-ttDJRRqaVAtLUtubtgLhWCE)  
-Raw Result: [Baidu:5qry](https://pan.baidu.com/s/1k5n9qm55Bm1DqANlw_5LeA)  
+Raw Result: [Baidu:zajx](https://pan.baidu.com/s/1MsnOiCP427rbbUj5F439Xw)  
 
 
 ![SP-HST](pipline.png)
