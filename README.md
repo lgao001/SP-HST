@@ -1,6 +1,6 @@
 # Hyperspectral Object Tracking with Spectral Information Prompt (SP-HST)
 Our Model Weight: [HOTC2020](https://pan.baidu.com/s/1v7ZyYo8-6YTLgyv9LHzamg)  
-Pretrain model: [OSTrack](https://drive.google.com/drive/folders/1GVQV1GoW-ttDJRRqaVAtLUtubtgLhWCE)  
+Pretrain model: [OSTrack](https://github.com/botaoye/OSTrack)  
 Raw Result: [HOTC2020](https://pan.baidu.com/s/1MsnOiCP427rbbUj5F439Xw)  
 
 
