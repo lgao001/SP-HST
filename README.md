@@ -9,7 +9,7 @@ Raw Result: [HOTC2020](https://pan.baidu.com/s/1MsnOiCP427rbbUj5F439Xw) and [IME
 ## Usage
 
 ### Installation  
-Create and activate a conda environment, we've tested on this env: You can follow the env setting of [TransT](https://github.com/chenxin-dlut/TransT).   
+Create and activate a conda environment, we've tested on this env: You can follow the env setting of [OSTrack](https://github.com/botaoye/OSTrack) and [ViPT](https://github.com/jiawen-zhu/ViPT).   
 
 ### Data Preparation  
 * Hyperspectral training and test datasets:  
@@ -17,11 +17,16 @@ Create and activate a conda environment, we've tested on this env: You can follo
   * [IMEC25](https://github.com/Chenlulu1993/HOMG)
 
 ### Path Setting  
-Following [TransT](https://github.com/chenxin-dlut/TransT)
+Following [OSTrack](https://github.com/botaoye/OSTrack)
 
 ### Testing  
 ```
-python pysot_toolkit/test.py
+python SPHST_workspace/test.py
+```
+
+### Training  
+```
+python tracking/train.py
 ```
 
 ## Citation  
